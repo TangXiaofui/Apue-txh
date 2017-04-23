@@ -1,0 +1,3 @@
+CC=gcc
+CFLAGS= -I../include -g -Wall
+LIBS = ../lib/libapue.a -lpthread
