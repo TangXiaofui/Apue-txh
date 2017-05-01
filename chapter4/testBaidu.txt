@@ -1,0 +1,12 @@
+3333
+2222
+1111
+1111
+1111
+1111
+4444
+
+#sort -u filename | wc -l
+#awk 'END{print NR}' testBaidu.txt
+#uniq filename -uc
+#uniq filename -dc
